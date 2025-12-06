@@ -12,4 +12,4 @@ joblib
 types-PyYAML
 Flask
 Flask-Cors
--e . # This is needed for creation as a local Project
+-e . 
